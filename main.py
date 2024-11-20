@@ -1,1 +1,1 @@
-print("Jenkins is availabe !!")
+print("Jenkins is availabe as v6!!")
